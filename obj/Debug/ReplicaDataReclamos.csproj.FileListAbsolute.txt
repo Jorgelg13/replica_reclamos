@@ -26,3 +26,7 @@ C:\Users\jorge\source\repos\ReplicaDataReclamos\ReplicaDataReclamos\bin\Debug\Sy
 C:\Users\jorge\source\repos\ReplicaDataReclamos\ReplicaDataReclamos\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\jorge\source\repos\ReplicaDataReclamos\ReplicaDataReclamos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\jorge\source\repos\ReplicaDataReclamos\ReplicaDataReclamos\obj\Debug\ReplicaDataReclamos.csproj.CopyComplete
+C:\Users\jorge\source\repos\ReplicaDataReclamos\ReplicaDataReclamos\bin\Debug\ReplicaDataReclamos.exe.manifest
+C:\Users\jorge\source\repos\ReplicaDataReclamos\ReplicaDataReclamos\bin\Debug\ReplicaDataReclamos.application
+C:\Users\jorge\source\repos\ReplicaDataReclamos\ReplicaDataReclamos\obj\Debug\ReplicaDataReclamos.exe.manifest
+C:\Users\jorge\source\repos\ReplicaDataReclamos\ReplicaDataReclamos\obj\Debug\ReplicaDataReclamos.application
